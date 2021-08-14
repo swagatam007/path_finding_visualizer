@@ -1,6 +1,6 @@
 {
   "name": "path-visualizer",
-  "homepage": "https://github.com/swagatam007/path_finding_visualizer/",
+  "homepage": "https://swagatam007.github.io/path_finding_visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
