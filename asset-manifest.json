@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/swagatam007/path_finding_visualizer/static/css/main.60417620.chunk.css",
-    "main.js": "/swagatam007/path_finding_visualizer/static/js/main.8165a0fa.chunk.js",
-    "main.js.map": "/swagatam007/path_finding_visualizer/static/js/main.8165a0fa.chunk.js.map",
-    "runtime-main.js": "/swagatam007/path_finding_visualizer/static/js/runtime-main.253fd142.js",
-    "runtime-main.js.map": "/swagatam007/path_finding_visualizer/static/js/runtime-main.253fd142.js.map",
-    "static/js/2.ff57767a.chunk.js": "/swagatam007/path_finding_visualizer/static/js/2.ff57767a.chunk.js",
-    "static/js/2.ff57767a.chunk.js.map": "/swagatam007/path_finding_visualizer/static/js/2.ff57767a.chunk.js.map",
-    "static/js/3.5e67b2dc.chunk.js": "/swagatam007/path_finding_visualizer/static/js/3.5e67b2dc.chunk.js",
-    "static/js/3.5e67b2dc.chunk.js.map": "/swagatam007/path_finding_visualizer/static/js/3.5e67b2dc.chunk.js.map",
-    "index.html": "/swagatam007/path_finding_visualizer/index.html",
-    "static/css/main.60417620.chunk.css.map": "/swagatam007/path_finding_visualizer/static/css/main.60417620.chunk.css.map",
-    "static/js/2.ff57767a.chunk.js.LICENSE.txt": "/swagatam007/path_finding_visualizer/static/js/2.ff57767a.chunk.js.LICENSE.txt"
+    "main.css": "/path_finding_visualizer/static/css/main.60417620.chunk.css",
+    "main.js": "/path_finding_visualizer/static/js/main.8c77ff28.chunk.js",
+    "main.js.map": "/path_finding_visualizer/static/js/main.8c77ff28.chunk.js.map",
+    "runtime-main.js": "/path_finding_visualizer/static/js/runtime-main.3993c47f.js",
+    "runtime-main.js.map": "/path_finding_visualizer/static/js/runtime-main.3993c47f.js.map",
+    "static/js/2.ff57767a.chunk.js": "/path_finding_visualizer/static/js/2.ff57767a.chunk.js",
+    "static/js/2.ff57767a.chunk.js.map": "/path_finding_visualizer/static/js/2.ff57767a.chunk.js.map",
+    "static/js/3.5e67b2dc.chunk.js": "/path_finding_visualizer/static/js/3.5e67b2dc.chunk.js",
+    "static/js/3.5e67b2dc.chunk.js.map": "/path_finding_visualizer/static/js/3.5e67b2dc.chunk.js.map",
+    "index.html": "/path_finding_visualizer/index.html",
+    "static/css/main.60417620.chunk.css.map": "/path_finding_visualizer/static/css/main.60417620.chunk.css.map",
+    "static/js/2.ff57767a.chunk.js.LICENSE.txt": "/path_finding_visualizer/static/js/2.ff57767a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.253fd142.js",
+    "static/js/runtime-main.3993c47f.js",
     "static/js/2.ff57767a.chunk.js",
     "static/css/main.60417620.chunk.css",
-    "static/js/main.8165a0fa.chunk.js"
+    "static/js/main.8c77ff28.chunk.js"
   ]
 }
