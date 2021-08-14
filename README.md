@@ -1,2 +1,3 @@
-I am swagatam Kundu $th year student of IEM, Kolkata. This is my Path Finding Visualization project using Dijstra's Algorithm.
+This is my Path Finding Visualization project using Dijkstra's Algorithm. It visualizes shortest path between source and destination in presence of maze.
+Check here : https://swagatam007.github.io/path_finding_visualizer/
 
